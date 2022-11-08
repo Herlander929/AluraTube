@@ -1,0 +1,21 @@
+{
+    "name": "Herlander Mandela",
+    "job": "Sistems analytics",
+    "github": "Herlander929",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbneil do video"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbneil do video"
+            }
+        ]
+    }
+}
