@@ -37,7 +37,7 @@ function Menu() {
 } */
 
 const StyledHeader = styled.div`
-background-color: ${({theme}) => theme.backgroundLevel1};
+background-color: ${({theme}) => theme.backgroundLevel};
 
   img {
     width: 80px;

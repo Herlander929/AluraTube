@@ -13,8 +13,7 @@ function HomePage() {
            
             <div style={{ backgroundColor: "" }}>
                 {/* prop drilling */}
-                <Menu valorDoFiltro={valorDoFiltro} 
-                setvalorDoFiltro={setvalorDoFiltro} />
+                <Menu valorDoFiltro={valorDoFiltro} setvalorDoFiltro={setvalorDoFiltro} />
                 <Header />
                 <TimeLine searchValue={valorDoFiltro}  playlists={config.playlists}>
                     consteúdo
@@ -37,8 +36,6 @@ function Menu() {
 } */
 
 const StyledHeader = styled.div`
-background-color: ${({theme}) => theme.backgroundLevel1};
-
   img {
     width: 80px;
     height: 80px;
